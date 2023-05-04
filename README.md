@@ -8,7 +8,7 @@
 
 ## Additional steps
 
-- Install **dev** packages for typescript support: `typescript @types/node`
+- Update all packages using `npm-check-updates` package: `ncu -u`
 
 ## Versions
 
