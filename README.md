@@ -1,4 +1,4 @@
-# Boilerplate code for Node with TypeScript
+# Code template for NodeJS project with TypeScript using npm
 
 ## Repo Cleanup
 
@@ -8,8 +8,12 @@
 
 ## Additional steps
 
-- Update all packages using `npm-check-updates` package: `ncu -u`
+- Update all packages using `npm-check-updates` package: `npm run update-deps`
 
 ## Versions
 
-- Boilerplate made for TypeScript v5.0.2
+- NodeJS v20.8.6
+- TypeScript v5.2.2
+- ESLint v8.51.0
+- TypeScript-ESLint v6.7.5
+- Prettier v3.0.3
