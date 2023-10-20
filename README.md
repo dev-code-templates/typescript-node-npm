@@ -17,3 +17,5 @@
 - ESLint v8.51.0
 - TypeScript-ESLint v6.7.5
 - Prettier v3.0.3
+- Jest v29.7.0
+- TSJest v29.1.1
