@@ -11,8 +11,8 @@
     "test:coverage": "jest --silent --coverage",
     "lint:check": "eslint .",
     "lint:fix": "eslint --fix .",
-    "prettier:check": "prettier --check .",
-    "prettier:fix": "prettier --write .",
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
     "update-deps": "ncu -u"
   },
   "devDependencies": {
