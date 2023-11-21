@@ -1,4 +1,4 @@
-export const sayHello = () => {
+export const sayHello: () => void = () => {
   console.log("Hello World!!!");
 };
 

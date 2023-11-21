@@ -11,6 +11,7 @@ const jestConfig: JestConfigWithTsJest = {
       },
     ],
   },
+  testPathIgnorePatterns: ["/node_modules/", "/dist/"],
 };
 
 export default jestConfig;
