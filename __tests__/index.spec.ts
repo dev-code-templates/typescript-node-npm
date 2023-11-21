@@ -1,4 +1,4 @@
-import { sayHello } from "../index.ts";
+import { sayHello } from "../src/index";
 
 describe("Index", () => {
   const consoleLogSpy = jest.spyOn(console, "log");
