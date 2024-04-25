@@ -12,11 +12,11 @@
 
 ## Versions
 
-- NodeJS v20.9.0
-- TypeScript v5.3.2
-- TSNode v10.9.1
-- ESLint v8.54.0
-- TypeScript-ESLint v6.12.0
-- Prettier v3.1.0
+- NodeJS v20.12.2
+- TypeScript v5.4.5
+- TSNode v10.9.2
+- ESLint v9.1.1
+- TypeScript-ESLint v7.7.1
+- Prettier v3.2.5
 - Jest v29.7.0
-- TSJest v29.1.1
+- TSJest v29.1.2
